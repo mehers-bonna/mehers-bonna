@@ -2,8 +2,11 @@
 <h3 align="center">A passionate frontend developer crafting modern web experiences</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/zW4wzxLN/github-Banner.jpg" alt="GitHub Banner" width="80%" />
+  <img src="https://i.ibb.co/S7J52D4F/github-Banner2.jpg" alt="GitHub Banner" width="80%" />
 </p>
+
+<h1 align="left">Hey! I am Bonna.</h1>
+<h3 align="left">MERN Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mehers-bonna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
