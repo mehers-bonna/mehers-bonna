@@ -9,6 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=mehers-bonna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<h3 align="left">About Me:</h3>
+<p align="left">
+  I'm a dedicated frontend developer with a strong passion for creating interactive and responsive web applications. I enjoy turning design ideas into clean, user-friendly interfaces and continuously learning new technologies to enhance my skills. When I'm not coding, I like exploring UI/UX trends and experimenting with creative web designs.
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/MeherinBonna" target="_blank">
@@ -56,3 +61,4 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehers-bonna&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
