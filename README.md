@@ -14,13 +14,19 @@
   I'm a dedicated frontend developer with a strong passion for creating interactive and responsive web applications. I enjoy turning design ideas into clean, user-friendly interfaces and continuously learning new technologies to enhance my skills. When I'm not coding, I like exploring UI/UX trends and experimenting with creative web designs.
 </p>
 
+<h3 align="left">Current Activities:</h3>
+<ul align="left">
+  <li>🚀 I am exploring <b>Next.js</b> to build more powerful web apps.</li>
+  <li>🌍 I’m currently working on a <b>Tourism Website</b>.</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
   <a href="https://www.facebook.com/MeherinBonna" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/meherin_bonna/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -33,6 +39,7 @@
 
 <p align="left"><b>Frontend:</b> <br>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 </p>
 
