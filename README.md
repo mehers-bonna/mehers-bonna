@@ -17,12 +17,11 @@
 <h3 align="left">Current Activities:</h3>
 <ul align="left">
   <li>🚀 I am exploring <b>Next.js</b> to build more powerful web apps.</li>
-  <li>🌍 I’m currently working on a <b>Tourism Website</b>.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/bonna-akterr/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/MeherinBonna" target="_blank">
