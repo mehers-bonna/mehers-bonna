@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer crafting modern web experiences</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/SzdYw4f/github-Bannerr.png" alt="GitHub Banner" width="100%" />
+  <img src="githubBanner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
